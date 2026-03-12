@@ -4,7 +4,8 @@
 
 Интернет-магазин для продажи цветов, клубники в шоколаде и сладких букетов. Проект разработан в учебных целях для отработки навыков фронтенд-разработки и демонстрации подхода к созданию интерактивных веб-приложений.
 
-<img width="1450" height="849" alt="image" src="https://github.com/user-attachments/assets/84abac0f-e267-4d53-9a88-db1ac383c9a6" />
+<img width="1496" height="863" alt="image" src="https://github.com/user-attachments/assets/f760be4e-361b-4359-a057-f1076e12611c" />
+
 
 
 ## ✨ О проекте
